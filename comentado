@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		
+		<meta charset="utf-8"/>
+ 		<title> Clasificacion LaLiga </title>
+
+	</head>
+	
+<body> 
+	<ul>
+	<li>barça</li>
+	<li>madrid</li>
+	<li>sevilla</li>
+	</ul>
+	
+	<ol>
+	<li>betis</li>
+	<li>valencia</li>
+	<li>atletico</li>
+	</ol>
+</body>
+	
+</html>

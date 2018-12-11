@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<!-- Utilitzarem el charset següent pero crear la pagina -->
+		<meta charset="utf-8"/>
+		<!-- Amb el Title donarem titol a la pagina -->
+ 		<title> Clasificacion LaLiga </title>
+
+	</head>
+	
+<body> 
+
+	<!-- ul per fer llistes desordenades -->
+	<ul>
+		<!-- li elements de la llista desordenada -->
+		<li>barça</li>
+		<li>madrid</li>
+		<li>sevilla</li>
+	</ul>
+	
+	<!-- o1 per fer llistes ordenades -->
+	<ol>
+		<!-- li elements de la llista ordenada -->
+		<li>betis</li>
+		<li>valencia</li>
+		<li>atletico</li>
+		</ol>
+</body>
+	
+</html>
